@@ -1,5 +1,5 @@
 // public key: 12343d0e102d5b0f46931faaa61a717c
-// privae key: c3121829a15dbfb21724a594e5dd290ebb1066a7
+// private key: c3121829a15dbfb21724a594e5dd290ebb1066a7
 
 const jumbotron = document.querySelector(".jumbotron");
 const lead = document.querySelector(".lead");
