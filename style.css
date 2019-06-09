@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.marvel {
+    color: red;
+}
+
+/* .background {
+    background: url(entertainment-ipad-mockup-265685.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: white;
+    position: relative;
+} */
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron {
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    min-height: 250px;
+}
+
+.card {
+    width: 100px;
+    height: 150px;
+    margin: 5px;
+}
+
+.card-img-top {
+    height: 100px;
+    background-color: gray;
+}
+
+.card-body {
+    padding: 0px;
+}
+
+.card-title {
+    font-size: 0.8rem;
+    margin-bottom: 0px;
+}
+
+.character {
+    transform: scale(1);
+    transition-duration: 1s;
+}
